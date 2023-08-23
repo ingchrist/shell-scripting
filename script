@@ -1,0 +1,1 @@
+sed -i 's/word to be replaced with new word/new word/g' name of the file where changes are to take place
